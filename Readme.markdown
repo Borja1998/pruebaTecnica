@@ -1,2 +1,2 @@
 # Nombre:
-*Borja Orts López*git
+*Borja Orts López
